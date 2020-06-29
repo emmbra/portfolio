@@ -115,12 +115,8 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"Quote 1",
-        "user":"Person 1"
-      },
-      {
-        "text":"Quote 2",
-        "user":"Person 2"
+        "text":"Your productivity is excellent. You consistently meet all deadlines -- usually ahead of schedule -- and do so without requiring oversight and reminders. Your written deliverables are clear, concise, skillfully crafted and illustrate your attention to detail.",
+        "user":"Employee Review - Dept. of Agriculture"
       }
     ]
   }
