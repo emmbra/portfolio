@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,aACC,UAAY,CACX,yBAA+B,CAC/B,8BACF","file":"main.822da7ed.chunk.css","sourcesContent":["#header-text{\r\n\tcolor: black;\r\n  text-shadow: white 0px 0px 20px;\r\n  -webkit-text-stroke: .75px black;\r\n}"]}
